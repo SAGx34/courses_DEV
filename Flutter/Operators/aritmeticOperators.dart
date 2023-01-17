@@ -9,5 +9,5 @@ void main() {
   print(resta);
   print(multiplication);
   print(division);
-  print(modulo);
+  print(resto);
 }
